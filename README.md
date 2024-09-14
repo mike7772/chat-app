@@ -3,7 +3,7 @@ Here’s a README file that covers both the frontend components of your chat box
 ---
 
 # Chat box Application
-
+[Demo Link](http://chatapp.360magic.link/)
 ## Objective
 A basic chat box application that demonstrates proficiency in Python, Flask, AWS, and React. Users can send and view messages in real-time or with minimal delay.
 
@@ -50,7 +50,6 @@ A basic chat box application that demonstrates proficiency in Python, Flask, AWS
 ## GitHub Repository
 
 [GitHub Repository Link](https://github.com/mike7772/chat-app)
-[Demo Link](https://chat-app.render.com)
 
 ## Notes
 
