@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import io from "socket.io-client";
 
-const socket = io("http://chat.360magic.link");
+const socket = io("http://chat.360magic.link:5000");
 // const socket = io("http://localhost:5000");
 
 
